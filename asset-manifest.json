@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/youtube-project/static/css/main.8cb8afce.chunk.css",
+    "main.js": "/youtube-project/static/js/main.f5a0804d.chunk.js",
+    "main.js.map": "/youtube-project/static/js/main.f5a0804d.chunk.js.map",
+    "runtime-main.js": "/youtube-project/static/js/runtime-main.3bc270ba.js",
+    "runtime-main.js.map": "/youtube-project/static/js/runtime-main.3bc270ba.js.map",
+    "static/css/2.e9bf5972.chunk.css": "/youtube-project/static/css/2.e9bf5972.chunk.css",
+    "static/js/2.7e046b9a.chunk.js": "/youtube-project/static/js/2.7e046b9a.chunk.js",
+    "static/js/2.7e046b9a.chunk.js.map": "/youtube-project/static/js/2.7e046b9a.chunk.js.map",
+    "index.html": "/youtube-project/index.html",
+    "static/css/2.e9bf5972.chunk.css.map": "/youtube-project/static/css/2.e9bf5972.chunk.css.map",
+    "static/css/main.8cb8afce.chunk.css.map": "/youtube-project/static/css/main.8cb8afce.chunk.css.map",
+    "static/js/2.7e046b9a.chunk.js.LICENSE.txt": "/youtube-project/static/js/2.7e046b9a.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/youtube-project/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bc270ba.js",
+    "static/css/2.e9bf5972.chunk.css",
+    "static/js/2.7e046b9a.chunk.js",
+    "static/css/main.8cb8afce.chunk.css",
+    "static/js/main.f5a0804d.chunk.js"
+  ]
+}
